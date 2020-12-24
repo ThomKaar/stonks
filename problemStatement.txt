@@ -1,0 +1,11 @@
+Every day pull the high and low price of the stock and the time those highs and lows were hit.
+Every day store the high price, low price, and their times of a stock in the database.
+Every day store the "trading time" price of the stock in a database.
+Every day pull the volume at a certain time of the stock (maybe average volume).
+Every day store the volume in a database.
+Plot the highs and lows vs time on a graph for an individual stock.
+Plot the average high, the average low, and current price of a stock over a week or month.
+
+
+Notes:
+"Trading time" is the time I will make trades at
